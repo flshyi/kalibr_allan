@@ -41,3 +41,7 @@ Accelerometer "random walk" | `accelerometer_random_walk` | <img src="https://la
 ![allan chart acceleration](data/results_20171031T115123_accel.png)
 
 ![allan chart angular velocity](data/results_20171031T115123_gyro.png)
+
+## Self use
+1.SCRIPT_allan_matparallel.m-->results_20180829T161726.mat(long time to compute)
+2.SCRIPT_process_results.m-->results.(draw figures about acc&gyro)
