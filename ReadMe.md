@@ -44,4 +44,5 @@ Accelerometer "random walk" | `accelerometer_random_walk` | <img src="https://la
 
 ## Self use
 1.SCRIPT_allan_matparallel.m-->results_20180829T161726.mat(long time to compute)
+
 2.SCRIPT_process_results.m-->results.(draw figures about acc&gyro)
