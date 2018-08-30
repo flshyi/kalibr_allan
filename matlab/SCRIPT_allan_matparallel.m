@@ -7,11 +7,11 @@ addpath('functions/allan_v3')
 
 % Our bag information
 %mat_path = '../data/imu_mtig700.mat';
-mat_path = '../data/imu_tango.mat';
+mat_path = 'data_imu.mat';
 
 % IMU information (todo: move this to the yaml file)
 %update_rate = 400;
-update_rate = 100;
+update_rate = 502;
 
 
 %% Data processing
