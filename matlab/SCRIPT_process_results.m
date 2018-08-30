@@ -7,8 +7,8 @@ addpath('functions')
 addpath('functions/allan_v3')
 
 % Our bag information
-titlestr = 'XSENS MTi-G-710';
-mat_path = '../data/results_20170908T182715.mat';
+titlestr = 'DCAM710';
+mat_path = '../data/results_20180829T161726.mat';
 
 %titlestr = 'Tango Yellowstone #1';
 %mat_path = '../data/results_20171031T115123.mat';
